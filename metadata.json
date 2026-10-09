@@ -1,0 +1,6 @@
+{
+  "name": "FoodBridge — Share Food, Save Lives",
+  "description": "Connect places with surplus food like marriage halls and restaurants with orphanages and shelters through verified volunteer delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
